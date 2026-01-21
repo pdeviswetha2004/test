@@ -1,1 +1,1 @@
-print("we live happy life")
+print("We live happy life.")
